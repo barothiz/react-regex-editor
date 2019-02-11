@@ -1,0 +1,23 @@
+{
+  "name": "react-regex-editor",
+  "version": "0.1.0",
+  "description": "Regex Editor for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barothiz/react-regex-editor.git"
+  },
+  "keywords": [
+    "react",
+    "regex"
+  ],
+  "author": "Zoltan Barothi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barothiz/react-regex-editor/issues"
+  },
+  "homepage": "https://github.com/barothiz/react-regex-editor#readme"
+}
